@@ -5,7 +5,7 @@ const Card = ({monster}) => {
 
                 <div class="card-image">
                     <figure class="image is-180by180">
-                        <img alt='monster' src={`https://robohash.org/${monster.id}?set=set2&size=180x180`}/>
+                        <img alt='monster' src={`https://robohash.org/${monster.id}?set=set4&size=180x180`}/>
                     </figure>
                 </div>
 
